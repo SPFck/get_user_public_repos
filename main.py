@@ -1,3 +1,6 @@
+# main.py Source Code
+# Written by @SPFck
+
 import requests, json
 
 username = input("Insert the username: ")
